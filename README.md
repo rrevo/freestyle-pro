@@ -2,9 +2,14 @@ Layouts and settings for Kinesis Freestyle Pro keyboard.
 
 View online manuals [here](https://kinesis-ergo.com/support/freestyle-pro/#manuals)
 
-From the User Manual:
+## Apply change
 
-Action Token Dictionary
+- Load V-Drive by (o) and F8 key
+- Run `apply-layout3.sh`
+- Unmount drive on Mac
+- Unload V-Drive by (0) and F8 key to reload keyboard
+
+## Action Token Dictionary
 
 Alphanumeric
 
