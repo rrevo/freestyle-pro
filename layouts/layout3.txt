@@ -6,6 +6,10 @@
 {hk5}>{s5}{x1}{-lwin}{x}{+lwin}
 {hk6}>{s1}{del}
 [caps]>[ctrl]
+{lctrl}{h}>{x1}{lft}
+{lctrl}{j}>{x1}{dwn}
+{lctrl}{k}>{x1}{up}
+{lctrl}{l}>{x1}{rght}
 {hk7}>{s5}{x1}{-lwin}{c}{+lwin}
 {hk8}>{s5}{x1}{-lwin}{v}{+lwin}
 {hk10}>{s5}{x1}{rmous}
